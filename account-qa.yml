@@ -1,0 +1,22 @@
+
+
+build:
+ version: 2.0 
+
+#logging:
+# level:
+#  org:
+#   springframework: DEBUG
+
+
+
+
+accounts:
+ message: "It has contact information qa"
+ contactDetails:
+  name: "manoharqa"
+  email: "yrl@gmail.comqa"
+ onCallSupport:
+  - 912-344-5652
+  - 314-489-3442
+  

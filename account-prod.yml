@@ -1,0 +1,21 @@
+
+build:
+ version: 2.0 
+
+#logging:
+# level:
+#  org:
+#   springframework: DEBUG
+
+
+
+
+accounts:
+ message: "It has contact information prod"
+ contactDetails:
+  name: "manohar pr"
+  email: "yrl@gmail.com pd"
+ onCallSupport:
+  - 912-344-5651
+  - 314-489-3441
+  
