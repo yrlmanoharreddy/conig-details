@@ -11,7 +11,7 @@ build:
 
 
 accounts:
- message: "It has contact information production"
+ message: "It has contact information producti"
  contactDetails:
   name: "manohar pr"
   email: "yrl@gmail.com pd"
